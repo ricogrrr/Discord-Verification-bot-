@@ -1,0 +1,16 @@
+{
+    "bot_token": "",
+    "prefix": "!",
+    "verified_role_name": "Verified",
+    "unverified_role_name": "Unverified",
+    "verification_channel_id": null,
+    "log_channel_id": null,
+    "verification_type": "custom_captcha",
+    "guild_id": null,
+    "settings": {
+        "auto_role_on_join": true,
+        "delete_verification_messages": false,
+        "verification_timeout_minutes": 5,
+        "max_captcha_attempts": 3
+    }
+}
